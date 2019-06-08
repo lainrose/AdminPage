@@ -1,4 +1,4 @@
-# blog
+# AdminPage
 React with Spring boot
 
 This project is under development.
