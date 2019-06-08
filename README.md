@@ -1,4 +1,4 @@
-# blog
+# AdminPage
 React with Spring boot
 
 This project is under development.
@@ -6,7 +6,7 @@ This project is under development.
 ### Technology Stack
 Component         | Technology
 ---               | ---
-Frontend          | React 16+
+Frontend          | BootStrap, Jsp -> React 16+
 Backend           | Spring Boot 2.1+, Java 11+
 Security          | //Spring Security, JWT
 Database          | H2 Database
